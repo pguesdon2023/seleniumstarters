@@ -3,12 +3,12 @@
 <suite name="Suite name">
     <test name="Test 1">
         <classes>
-            <class name="testcases.FirstClassTest"/>
+            <class name="testcases.GoogleTest"/>
         </classes>
     </test>
     <test name="Test 2">
         <classes>
-            <class name="testcases.SecondClassTest"/>
+            <class name="testcases.FormTest"/>
         </classes>
     </test>
 </suite>
